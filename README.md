@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 I’m Yosuke Kuroki - a **Lead Blockchain Engineer / AI Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+👋 I’m Yosuke Kuroki - a *Lead Blockchain Engineer / AI Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
 💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
 
@@ -12,7 +12,6 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
 
-🧠 I’m currently exploring Agent Communication Protocol (ACP) and Model Context Protocol (MCP), where LLMs evolve into decision-making collaborators across pipelines.
 ---
 
 ## 💡 Contact Me
