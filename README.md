@@ -1,11 +1,93 @@
-- 👋 Hi, I’m @stardragondev315
-- 👀 I’m interested in AI, Blockchain, Backend(Rust, ASP.NET, Express) development.
-- 🌱 I’m currently learning Trading.
-- 📫 How to reach me (Please below)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Eating, Reading, Moving, Hiking.
+## 🚀 About Me
 
-<!---
-stardragondev315/stardragondev315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 I’m Yosuke Kuroki - a **Lead Blockchain Engineer / AI Engineer / ** working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+
+💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
+
+Over the past decade, I’ve evolved from building classical ML models to designing robust data and AI systems that embed LLMs into business logic, not just the UI. My focus is on **LLM pipelines, context-aware agents**, and **scalable AI infrastructure**.
+
+🔹 I recently led the integration of ChatGPT APIs with Retrieval-Augmented Generation (RAG) in a high-availability backend, where real-time inference demanded smart data routing and prompt engineering.
+
+🔹 In healthcare, I’ve driven the development of LLM-based analytics tools using domain-tuned prompting and fine-tuning to improve patient outcomes.
+
+🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
+
+🧠 I’m currently exploring Agent Communication Protocol (ACP) and Model Context Protocol (MCP), where LLMs evolve into decision-making collaborators across pipelines.
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- **Expert:** Python, SQL, JavaScript, PHP, C++, C#, VB  
+- **Familiar:** R, MATLAB, Java
+
+### 🔧 Tools & Frameworks
+- **Back-End:** Django, Django REST Framework, FastAPI, Flask, Redis, PostgreSQL  
+- **Data Engineering:** ETL Pipelines, Airflow (if used), Kafka, Elasticsearch  
+- **DevOps:** Docker Compose, Nginx, CI/CD, Git, AWS (EC2, Lambda, Sagemaker, Textract), GCP  
+- **Monitoring & Deployment:** Linux (CentOS), High Availability Systems (99.9% uptime)
+
+### 🤖 Machine Learning & AI
+- **Core Skills:** NLP, Machine Learning, Deep Learning, Prompt Engineering  
+- **LLMs:** ChatGPT API, RAG Architectures, LangChain, Transformers (HuggingFace), Chain-of-Thought, Few-shot/Zero-shot prompting  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch  
+
+### 🧠 System & Software Design
+- Microservices Architecture, Domain-Driven Design (DDD), Data-Driven Design  
+- Design Patterns: MVC, TMP, Decorator  
+- Semantic Search, Real-time Inference Systems
+
+### 🎨 Front-End & Visualization
+- HTML, CSS, Bootstrap, JavaScript (jQuery), D3.js  
+- Interactive Dashboards & Data Visualizations (Tableau, Custom JS)
+
+### 🧪 Agile Practices & Team Tools
+- Agile, Scrum, Kanban, Scrumban  
+- Project Management: Jira, Trello  
+- Cross-functional Team Leadership & Mentoring
+
+---
+
+## 📫 My Services
+* AI techs (Machine Learning, LLM, NLP, RAG, Chatbot development, ETL, LangChain, LLaMa (versions 2 and 3), fine-tuning, customGPT, OpenAI, RHLF, Reasoning, and LSTM) <br/>
+* Blockchain (Telegram Mini app, Solidity & Rust smart contract, Dapp, NFT marketplace) <br/>
+* Crypto Trading Bots (Sniper, Volume, Pumpfun Copy Trading, Bundler, Swap bot) <br/>
+* Web, App development (.Net, Electron, Tauri, React, Next, Node, Vue, Django, Flask) <br/>
+* Diverse Bots (Telegram, discord, Whatsapp bots) <br/>
+* Web Scraping <br/>
+
+## ⚡ You can check out the following sites and videos: <br/>
+- Survey Management Platform (Skill: React, TailwindCSS, .NET, SurveyJS, Azure) <br/>
+   https://calm-hill-05fd50a03.5.azurestaticapps.net/ <br/>
+- Website Developments(React.js, Node.js, Vue.js, Next.js, Flask, Django) <br/>
+  https://www.lafayette.edu/  <br/>
+  https://modpizza.com/ <br/>
+  https://skillcrush.com/ <br/>
+- https://moose.forwardfactory.ai/ (next.js, mongodb, solidity, Anchor) <br/>
+- https://scytalecoin.com/ (Project Management, Web3, Soldity, Agile(Notion+Jira+Slack)) <br/>
+- https://partnersitgroup.com/ (e-Commerce, Shopify, Zapier, Python, Data Scraping, MySQL ) <br/>
+- No code AI chatbot builder(Next.js, Vercel, GoDaddy, Langchain, FastAPI, Google API) <br/>
+ https://app.ollabot.com/, https://botsonic.com/  <br/>
+- AI powered chatbot(Next.js, OpenAI, RunpodAPI, Electron, Elevenlab API, Google Speech to Text API.)  <br/>
+  https://www.englishexpress.ai/ <br/>
+- Image Generation AI <br/>
+  http://38.54.89.230/  <br/>
+- Crypto payment gateway <br/>
+https://nefentus.com/  <br/>
+(React, Antd, React Native, Spring Boot, MySQL, Smart contract, ethers.js, web3j, Swing SDK/API, AWS Lambda, Elastic search, S3 bucket) <br/>
+-DEX Platform: https://monox.finance/ <br/>
+-NFT Marketplace: https://wrappedplatform.com/ <br/>
+- OpenAI Assistance(https://chat-ui-ai.web.app/) <br/>
+-Social copy trading platform(Sass): https://tradingatmstg.wpenginepowered.com/ (for forex trading, not cryptocurrency trading). <br/>
+-Crypto Payment Gateway: https://nefentus.com/ <br/>
+-Copy Trade Platform: https://tradingatmsg.wpenginepowered.com/, https://trading-atm-development.onrender.com/ <br/>
+-Solana MEV Bot: https://www.loom.com/share/304df9fd24db40cd9127e5c2525c4a64 <br/>
+-Solana Pumpfun Bot:   https://drive.google.com/drive/folders/1sQlraFxqLMZ5WUB8CR8D6gvqHegwmtpB   <br/>
+-Solana Telegram Signal Bot: https://t.me/tank_solbot <br/>
+-Blockchain Game Platform: https://tymt.com/ <br/>
+-Telegram Mini App: https://t.me/monster_mysterybot <br/>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer" width="100%"/>
+</p>
