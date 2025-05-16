@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 I’m Yosuke Kuroki - a **Lead Blockchain Engineer / AI Engineer / ** working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+👋 I’m Yosuke Kuroki - a **Lead Blockchain Engineer / AI Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
 💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
 
@@ -23,39 +23,6 @@ Over the past decade, I’ve evolved from building classical ML models to design
 <a href = "https://wa.me/+818066733555" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-A11FA3?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href = "stardragondev315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- **Expert:** Python, SQL, JavaScript, PHP, C++, C#, VB  
-- **Familiar:** R, MATLAB, Java
-
-### 🔧 Tools & Frameworks
-- **Back-End:** Django, Django REST Framework, FastAPI, Flask, Redis, PostgreSQL  
-- **Data Engineering:** ETL Pipelines, Airflow (if used), Kafka, Elasticsearch  
-- **DevOps:** Docker Compose, Nginx, CI/CD, Git, AWS (EC2, Lambda, Sagemaker, Textract), GCP  
-- **Monitoring & Deployment:** Linux (CentOS), High Availability Systems (99.9% uptime)
-
-### 🤖 Machine Learning & AI
-- **Core Skills:** NLP, Machine Learning, Deep Learning, Prompt Engineering  
-- **LLMs:** ChatGPT API, RAG Architectures, LangChain, Transformers (HuggingFace), Chain-of-Thought, Few-shot/Zero-shot prompting  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch  
-
-### 🧠 System & Software Design
-- Microservices Architecture, Domain-Driven Design (DDD), Data-Driven Design  
-- Design Patterns: MVC, TMP, Decorator  
-- Semantic Search, Real-time Inference Systems
-
-### 🎨 Front-End & Visualization
-- HTML, CSS, Bootstrap, JavaScript (jQuery), D3.js  
-- Interactive Dashboards & Data Visualizations (Tableau, Custom JS)
-
-### 🧪 Agile Practices & Team Tools
-- Agile, Scrum, Kanban, Scrumban  
-- Project Management: Jira, Trello  
-- Cross-functional Team Leadership & Mentoring
-
----
-
 ## 📫 My Services
 * AI techs (Machine Learning, LLM, NLP, RAG, Chatbot development, ETL, LangChain, LLaMa (versions 2 and 3), fine-tuning, customGPT, OpenAI, RHLF, Reasoning, and LSTM) <br/>
 * Blockchain (Telegram Mini app, Solidity & Rust smart contract, Dapp, NFT marketplace) <br/>
@@ -63,6 +30,11 @@ Over the past decade, I’ve evolved from building classical ML models to design
 * Web, App development (.Net, Electron, Tauri, React, Next, Node, Vue, Django, Flask) <br/>
 * Diverse Bots (Telegram, discord, Whatsapp bots) <br/>
 * Web Scraping <br/>
+
+### 🧪 Agile Practices & Team Tools
+- Agile, Scrum, Kanban, Scrumban  
+- Project Management: Jira, Trello  
+- Cross-functional Team Leadership & Mentoring
 
 ## ⚡ You can check out the following sites and videos: <br/>
 - Survey Management Platform (Skill: React, TailwindCSS, .NET, SurveyJS, Azure) <br/>
