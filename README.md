@@ -24,10 +24,8 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 ## 📫 My Services
 * AI techs (Machine Learning, LLM, NLP, RAG, Chatbot development, ETL, LangChain, LLaMa (versions 2 and 3), fine-tuning, customGPT, OpenAI, RHLF, Reasoning, and LSTM) <br/>
-* Blockchain (Telegram Mini app, Solidity & Rust smart contract, Dapp, NFT marketplace) <br/>
 * Crypto Trading Bots (Sniper, Volume, Pumpfun Copy Trading, Bundler, Swap bot) <br/>
 * Web, App development (.Net, Electron, Tauri, React, Next, Node, Vue, Django, Flask) <br/>
-* Diverse Bots (Telegram, discord, Whatsapp bots) <br/>
 * Web Scraping <br/>
 
 ### 🧪 Agile Practices & Team Tools
