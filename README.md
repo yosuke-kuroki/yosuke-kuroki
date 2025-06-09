@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 I’m Yosuke Kuroki - a *Lead Blockchain Engineer / AI Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+👋 I’m Yosuke Kuroki - a senior LLM/ML Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
 💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
 
