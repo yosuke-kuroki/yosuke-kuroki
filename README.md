@@ -14,7 +14,7 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 ## 🚀 Rpos for AI engineers
 
-[Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
+✔ [Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
 
 ---
 
