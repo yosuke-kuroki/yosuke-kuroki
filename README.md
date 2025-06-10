@@ -26,17 +26,6 @@ Over the past decade, I’ve evolved from building classical ML models to design
 <a href = "https://wa.me/+818066733555" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-A11FA3?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href = "stardragondev315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 📫 My Services
-* AI techs (Machine Learning, LLM, NLP, RAG, Chatbot development, ETL, LangChain, LLaMa (versions 2 and 3), fine-tuning, customGPT, OpenAI, RHLF, Reasoning, and LSTM) <br/>
-* Crypto Trading Bots (Sniper, Volume, Pumpfun Copy Trading, Bundler, Swap bot) <br/>
-* Web, App development (.Net, Electron, Tauri, React, Next, Node, Vue, Django, Flask) <br/>
-* Web Scraping <br/>
-
-### 🧪 Agile Practices & Team Tools
-- Agile, Scrum, Kanban, Scrumban  
-- Project Management: Jira, Trello  
-- Cross-functional Team Leadership & Mentoring
-
 ## ⚡ You can check out the following sites and videos: <br/>
 - Survey Management Platform (Skill: React, TailwindCSS, .NET, SurveyJS, Azure) <br/>
    https://calm-hill-05fd50a03.5.azurestaticapps.net/ <br/>
