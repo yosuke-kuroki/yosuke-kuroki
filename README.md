@@ -1,4 +1,4 @@
-## 🚀 About Me
+##  😊 About Me
 
 👋 I’m Yosuke Kuroki - a senior LLM/ML Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
@@ -12,7 +12,7 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
 
-## Rpos for AI engineers
+## 🚀 Rpos for AI engineers
 
 [Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
 
