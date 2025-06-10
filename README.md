@@ -2,15 +2,35 @@
 
 👋 I’m Yosuke Kuroki - a senior LLM/ML Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
-💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
+• Designed and implemented an end-to-end automation pipeline for payment processing using Selenium and RPA tools to reduce manual intervention and ensure reliable deployment in CI/CD workflows.
 
-Over the past decade, I’ve evolved from building classical ML models to designing robust data and AI systems that embed LLMs into business logic, not just the UI. My focus is on **LLM pipelines, context-aware agents**, and **scalable AI infrastructure**.
+• Developed intelligent document parsing scripts integrated with GPT-4o-mini to extract structured information, and leveraged Python for backend processing and cloud-native deployment
 
-🔹 I recently led the integration of ChatGPT APIs with Retrieval-Augmented Generation (RAG) in a high-availability backend, where real-time inference demanded smart data routing and prompt engineering.
+• Built a monitoring dashboard that tracks automation workflows and triggers alerts via cloud logging and monitoring services to improve visibility and system uptime. 
 
-🔹 In healthcare, I’ve driven the development of LLM-based analytics tools using domain-tuned prompting and fine-tuning to improve patient outcomes.
+• Build a cloud-native RPA solution that combines Selenium and Kubernetes to orchestrate scalable and fault-tolerant automation processes.
 
-🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
+• Designed a secure automation system using containerized workflows and integrated CI/CD pipelines to streamline form submission and data validation tasks.
+
+• Built automated ingestion and preprocessing pipelines using Azure AI and cloud functions, and embedded unstructured documents into a vector database for downstream search.
+
+• Designed a scalable augmented search generation (RAG) pipeline using a cloud-native vector database and Kubernetes to implement advanced contextual search.
+
+• Implemented cognitive automation by integrating AI models with RPA bots, improving extraction accuracy and contextual decision-making across document workflows.
+
+• Developed AI-powered document search systems utilizing Azure Blob Storage, embedding models, and REST APIs to optimize latency and retrieval relevance.
+
+• Implemented a Graph RAG system with Neo4j on Kubernetes, enhancing relationship mapping for AI-assisted analytics.
+
+• Integrated BERT-based GCN KIE models within LangChain pipelines to improve document intelligence workflows, leveraging Weights, Biases for experimentation.
+
+• Applied Named Entity Recognition (NER) and summarization techniques in Kubernetes-deployed NLP microservices for intelligent document understanding.
+
+• Utilized Llama2 models via LangChain for enterprise content generation, integrating outputs with REST-based business systems.
+
+• Enhanced NLP document processing efficiency using CUDA-accelerated stacks in containerized environments. 
+
+• Led the development of a CNN-based OCR model optimized for GPU inference, reducing latency by 41% with TensorRT and Docker
 
 ## 🚀 Rpos for AI engineers
 
