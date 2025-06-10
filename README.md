@@ -12,6 +12,10 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
 
+## Rpos for AI engineers
+
+[Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
+
 ---
 
 ## 💡 Contact Me
