@@ -32,7 +32,7 @@
 
 • Led the development of a CNN-based OCR model optimized for GPU inference, reducing latency by 41% with TensorRT and Docker
 
-## 🚀 Rpos for AI engineers
+## 🚀 Repos for AI engineers
 
 ✔ [Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
 
