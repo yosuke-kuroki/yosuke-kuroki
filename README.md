@@ -36,6 +36,9 @@
 
 ✔ [Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
 
+✔ [Real-Time TTS](https://github.com/yosuke-kuroki/Real-Time-TTS-AI.git)
+
+
 ---
 
 ## 💡 Contact Me
