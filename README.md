@@ -38,6 +38,8 @@
 
 ✔ [Real-Time TTS](https://github.com/yosuke-kuroki/Real-Time-TTS-AI.git)
 
+✔ [AI Roadmap 100](https://github.com/yosuke-kuroki/AI-Engineer-Roadmap-100.git)
+
 
 ---
 
