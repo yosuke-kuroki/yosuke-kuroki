@@ -36,6 +36,8 @@
 
 ✔ [Roadmap-2025 for AI Engineer](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer.git)
 
+✔ [Roadmap for Data Scientist](https://github.com/yosuke-kuroki/Roadmap-for-Data-Scientist.git)
+
 ✔ [Real-Time TTS](https://github.com/yosuke-kuroki/Real-Time-TTS-AI.git)
 
 ✔ [AI Roadmap 100](https://github.com/yosuke-kuroki/AI-Engineer-Roadmap-100.git)
