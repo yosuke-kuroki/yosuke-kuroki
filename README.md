@@ -49,7 +49,7 @@
 
 <a href = "https://www.linkedin.com/in/yosuke-kuroki/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=li&logoColor=white"/></a>
 <a href = "https://yosuke-kuroki.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-A30B77D5.svg?style=for-the-badge&logo=website&logoColor=white"/></a>
-<a href = "https://t.me/yousuketrist" target="_blank"><img src="https://img.shields.io/badge/Telegram-C31EE36?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href = "https://t.me/ykuroki" target="_blank"><img src="https://img.shields.io/badge/Telegram-C31EE36?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href = "https://wa.me/+818066733555" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-A11FA3?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href = "stardragondev315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
