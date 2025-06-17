@@ -2,35 +2,27 @@
 
 👋 I’m Yosuke Kuroki - a senior LLM/ML Engineer / Full Stack developer* working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
-• Designed and implemented an end-to-end automation pipeline for payment processing using Selenium and RPA tools to reduce manual intervention and ensure reliable deployment in CI/CD workflows.
+AI Engineer specializing in machine learning, LLMs, and product development, with a proven track record of building scalable, production-grade AI systems and bringing innovative products to market quickly. My expertise spans zero-to-one prototypes, viral open-source projects, and large-scale deployments—from AI-powered chatbots handling millions of tokens to SaaS, enterprise, and fintech solutions.
 
-• Developed intelligent document parsing scripts integrated with GPT-4o-mini to extract structured information, and leveraged Python for backend processing and cloud-native deployment
+I thrive at the intersection of engineering and product, prioritizing simplicity, rapid deployment, and real-world impact over theoretical research. Whether leading mission-critical infrastructure teams or launching new AI applications, I focus on solving practical problems with cutting-edge ML—always learning, iterating, and pushing boundaries.
 
-• Built a monitoring dashboard that tracks automation workflows and triggers alerts via cloud logging and monitoring services to improve visibility and system uptime. 
+Key Skills:
 
-• Build a cloud-native RPA solution that combines Selenium and Kubernetes to orchestrate scalable and fault-tolerant automation processes.
+- FILEDS: Language Processing (NLP), ML Operations, Image Processing, Text Generation, Image Segmentation, Image Denoising, Object Detection , Sentiment Analysis, Named Entity Recognition (NER), Text Detection, Optical Character Recognition (OCR), RAG, LLMs, Computer Vision, Data Generation, Model Creation, Code Analysis, CUDA (GPU)
 
-• Designed a secure automation system using containerized workflows and integrated CI/CD pipelines to streamline form submission and data validation tasks.
+- LIBS: PyTorch, OpenCV, NumPy, Caffe2, Scikit-learn, Skimage, Scipy, Mxnet, Pandas, PySpark, ELK, TensorFlow
 
-• Built automated ingestion and preprocessing pipelines using Azure AI and cloud functions, and embedded unstructured documents into a vector database for downstream search.
+- FRAMEWORKS: React.js, Next.js, Vue.js, Tailwind CSS, MUI, Actix, Rocket, Node.js, Express.js, Django, Flask
 
-• Designed a scalable augmented search generation (RAG) pipeline using a cloud-native vector database and Kubernetes to implement advanced contextual search.
+- LANGUAGES: Rust, Golang, JavaScript, HTML5, CSS3, Solidity, Python, C++, TypeScript
 
-• Implemented cognitive automation by integrating AI models with RPA bots, improving extraction accuracy and contextual decision-making across document workflows.
+- DEVELOPER TOOLS: Jupyter, Kubernetes, AWS(GCP), LangChain, Jenkins, Querybook, Docker, CI/CD pipelines,
 
-• Developed AI-powered document search systems utilizing Azure Blob Storage, embedding models, and REST APIs to optimize latency and retrieval relevance.
+- Docker, ESLint, TSLint, Test-first Automation, Selenium
 
-• Implemented a Graph RAG system with Neo4j on Kubernetes, enhancing relationship mapping for AI-assisted analytics.
+- DATABASES: MySQL, MongoDB, Redis, PostgreSQL, GraphQL
 
-• Integrated BERT-based GCN KIE models within LangChain pipelines to improve document intelligence workflows, leveraging Weights, Biases for experimentation.
-
-• Applied Named Entity Recognition (NER) and summarization techniques in Kubernetes-deployed NLP microservices for intelligent document understanding.
-
-• Utilized Llama2 models via LangChain for enterprise content generation, integrating outputs with REST-based business systems.
-
-• Enhanced NLP document processing efficiency using CUDA-accelerated stacks in containerized environments. 
-
-• Led the development of a CNN-based OCR model optimized for GPU inference, reducing latency by 41% with TensorRT and Docker
+- AGILE PRACTICES, TEAM TOOLS: Agile, Scrum, Kanban, Scrumban, Jira, Trello
 
 ## 🚀 Repos for AI engineers
 
