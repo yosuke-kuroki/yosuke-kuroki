@@ -42,6 +42,8 @@
 
 ✔ [AI Roadmap 100](https://github.com/yosuke-kuroki/AI-Engineer-Roadmap-100.git)
 
+✔ [Rag Langchain AI system](https://github.com/yosuke-kuroki/AI-System-Rag-LangChain.git)
+
 
 ---
 
